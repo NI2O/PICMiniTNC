@@ -1,0 +1,4 @@
+PICMiniTNC
+==========
+
+WB8WGA PIC16F88 APRS/KIS TNC
